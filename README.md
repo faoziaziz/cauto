@@ -14,3 +14,7 @@ A="NEWS README AUTHORS ChangeLog"
 touch $A
 ```
 
+## Reference
+
+[Menggunakan Automake](https://www.geeksforgeeks.org/autoreconf-command-in-linux-with-examples/)
+
